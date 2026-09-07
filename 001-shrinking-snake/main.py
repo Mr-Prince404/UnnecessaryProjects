@@ -103,7 +103,7 @@ BURLAS_MEDIAS = [
 BURLAS_DURAS = [
     "El tablero se hizo más pequeño. Igual que tus posibilidades.",
     "Estoy empezando a sentir pena por la viborita.",
-    "Hermano...",
+    "Es en serio: la viborita merece otro jugador.",
     "Ya no sé cómo ayudarte.",
     "Te juro que el juego sí funciona.",
     "La viborita merece otro jugador.",
