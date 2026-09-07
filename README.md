@@ -8,10 +8,9 @@
 
 <br>
 
-<img alt="Experimentos" src="https://img.shields.io/badge/EXPERIMENTOS-001-7C3AED?style=for-the-badge">
-<img alt="Estado" src="https://img.shields.io/badge/ESTADO-CUESTIONABLE-00E5FF?style=for-the-badge">
-<img alt="Proyecto actual" src="https://img.shields.io/badge/PROYECTO-JUEGO_DE_LA_VIBORITA-39FF88?style=for-the-badge">
-<img alt="Versión" src="https://img.shields.io/badge/VERSIÓN-V5-FF4ECD?style=for-the-badge">
+<img alt="Laboratorio" src="https://img.shields.io/badge/LAB-404-6B4A3B?style=for-the-badge">
+<img alt="Estado" src="https://img.shields.io/badge/ESTADO-CUESTIONABLE-183F47?style=for-the-badge">
+<img alt="Proyecto actual" src="https://img.shields.io/badge/PROYECTO-JUEGO_DE_LA_VIBORITA-BE2933?style=for-the-badge">
 
 <br><br>
 
@@ -29,11 +28,6 @@
 > **Este repositorio contiene ingeniería cuestionable.**  
 > Algunos proyectos pueden no resolver absolutamente ningún problema real.  
 > Eso no significa que no deban existir.
-
-```text
-> reason --why
-Porque podemos_
-```
 
 ---
 
@@ -56,7 +50,7 @@ Cada derrota reduce el área jugable, la ventana se hace más pequeña y el jueg
 **Versión actual:** `V5` · **Estado:** ✅ Terminado · **Tecnología:** Python / Pygame
 
 > Cuanto más fallas, menos espacio tienes.  
-> Porque aparentemente Snake normal no era suficientemente estresante.
+> Snake normal no era suficientemente estresante.
 
 ---
 
@@ -111,7 +105,8 @@ UnnecessaryProjects/
 │   ├── hero-dark.svg
 │   ├── hero-light.svg
 │   ├── experiment-001.svg
-│   └── footer.svg
+│   ├── footer.svg
+│   └── chibi-prince.png
 │
 ├── 002-???
 ├── 003-???
@@ -119,21 +114,6 @@ UnnecessaryProjects/
 ```
 
 Cada proyecto puede utilizar tecnologías completamente diferentes.
-
-</details>
-
-<details>
-<summary><b>🧠 Protocolo experimental</b></summary>
-
-<br>
-
-1. La idea debe ser interesante, rara, divertida o innecesariamente complicada.
-2. No tiene que resolver un problema real.
-3. Puede utilizar cualquier lenguaje o tecnología.
-4. Romper convenciones perfectamente razonables está ocasionalmente permitido.
-5. Si alguien pregunta **“¿Por qué hiciste esto?”**, la respuesta más probable es:
-
-> ## **Porque podemos.**
 
 </details>
 
@@ -180,7 +160,7 @@ Cada proyecto es una nueva excusa para experimentar, aprender y construir algo q
 
 <div align="center">
 
-<img src="./assets/footer.svg" alt="LAB-404 — Porque podemos" width="100%">
+<img src="./assets/footer.svg" alt="LAB-404 — cierre del laboratorio" width="100%">
 
 **Construido con curiosidad, decisiones cuestionables y demasiada libertad creativa.**
 

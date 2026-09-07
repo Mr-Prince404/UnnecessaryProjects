@@ -1,24 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-label="LAB-404 footer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-label="LAB-404 footer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0C101B"/>
-      <stop offset="0.5" stop-color="#15112A"/>
-      <stop offset="1" stop-color="#0B1D1C"/>
+      <stop offset="0" stop-color="#11151C"/>
+      <stop offset="0.5" stop-color="#17131E"/>
+      <stop offset="1" stop-color="#0F2126"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#39FF88"/>
-      <stop offset="0.5" stop-color="#00E5FF"/>
-      <stop offset="1" stop-color="#FF4ECD"/>
+      <stop offset="0" stop-color="#855A49"/>
+      <stop offset="0.35" stop-color="#BE2933"/>
+      <stop offset="0.68" stop-color="#D9A441"/>
+      <stop offset="1" stop-color="#1D5A63"/>
     </linearGradient>
   </defs>
-  <rect width="1100" height="180" rx="22" fill="url(#bg)"/>
-  <path d="M40 38H1060" stroke="url(#accent)" stroke-width="2" stroke-opacity=".5"/>
+  <rect width="1100" height="190" rx="22" fill="url(#bg)"/>
+  <path d="M40 38H1060" stroke="url(#accent)" stroke-width="2" stroke-opacity=".56"/>
   <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
-    <text x="550" y="80" fill="#7D8AA5" font-size="18">&gt; shutdown laboratory --force</text>
-    <text x="550" y="116" fill="#FF8AD0" font-size="21" font-weight="700">ERROR: TOO MANY BAD IDEAS REMAINING.</text>
-    <text x="550" y="150" fill="#FFFFFF" font-size="24" font-weight="800">PORQUE PODEMOS</text>
-    <rect x="653" y="128" width="12" height="26" fill="#39FF88">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
+    <text x="550" y="84" fill="#C9A99A" font-size="18">&gt; shutdown laboratory --force</text>
+    <text x="550" y="120" fill="#F1E0C0" font-size="22" font-weight="700">ABORTADO: TODAVÍA HAY EXPERIMENTOS HIRVIENDO.</text>
+    <text x="550" y="156" fill="#D8D8D8" font-size="18">Demasiadas malas ideas siguen activas.</text>
   </g>
 </svg>
