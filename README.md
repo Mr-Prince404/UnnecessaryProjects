@@ -47,7 +47,7 @@ El clásico Snake, excepto que aquí **perder tiene consecuencias**.
 
 Cada derrota reduce el área jugable, la ventana se hace más pequeña y el juego aprovecha para recordarte —con muy poca delicadeza— que acabas de fallar.
 
-**Versión actual:** `V5` · **Estado:** ✅ Terminado · **Tecnología:** Python / Pygame
+**Estado:** ✅ Terminado · **Tecnología:** Python / Pygame
 
 > Cuanto más fallas, menos espacio tienes.  
 > Snake normal no era suficientemente estresante.
