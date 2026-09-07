@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="UnnecessaryProjects LAB-404">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="0.48" stop-color="#11112B"/>
+      <stop offset="1" stop-color="#071A1E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39FF88"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#FF4ECD"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#68FFF7" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="24.5" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="3"/>
+
+  <g opacity=".45">
+    <circle cx="112" cy="285" r="5" fill="#39FF88"><animate attributeName="cy" values="285;70;285" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="290" r="4" fill="#00E5FF"><animate attributeName="cy" values="290;95;290" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="1085" cy="260" r="3" fill="#FF4ECD"><animate attributeName="cy" values="260;75;260" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="155" cy="250" r="3" fill="#00E5FF"><animate attributeName="cy" values="250;115;250" dur="9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(64,58)" font-family="Consolas, 'Courier New', monospace">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#7D8AA5" font-size="22">LAB-404 / DEPARTMENT OF QUESTIONABLE ENGINEERING</text>
+
+    <g transform="translate(840,-4)">
+      <circle cx="0" cy="15" r="7" fill="#39FF88" filter="url(#glow)">
+        <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="20" y="0" dominant-baseline="hanging" fill="#A9FFD0" font-size="18">STATUS: UNNECESSARY</text>
+    </g>
+
+    <text x="0" y="92" fill="url(#accent)" font-size="66" font-weight="800" letter-spacing="2" filter="url(#glow)">UNNECESSARYPROJECTS</text>
+    <text x="2" y="144" fill="#D9E3FF" font-size="24">Experimentos que nadie pidió. Software que nadie necesitaba.</text>
+
+    <text x="2" y="212" fill="#7D8AA5" font-size="22">&gt; reason --why</text>
+    <text x="2" y="250" fill="#FFFFFF" font-size="30" font-weight="700">Porque podemos</text>
+    <rect x="292" y="228" width="15" height="31" rx="2" fill="#39FF88">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M55 318H1145" stroke="url(#accent)" stroke-width="2" stroke-opacity=".5"/>
+  <text x="60" y="340" fill="#66718C" font-family="Consolas, 'Courier New', monospace" font-size="14">AUTHORIZED PERSONNEL ONLY // BUILD AT YOUR OWN RISK</text>
+</svg>
