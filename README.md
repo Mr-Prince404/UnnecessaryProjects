@@ -33,6 +33,14 @@
 
 ## 🔬 Base de datos de experimentos
 
+<div align="center">
+
+<a href="./001-shrinking-snake">
+  <img src="./assets/experiment-001.svg" alt="Experimento 001 — Juego de la viborita" width="100%">
+</a>
+
+</div>
+
 ### 🐍 001 — Juego de la viborita
 
 El clásico Snake, excepto que aquí **perder tiene consecuencias**.
