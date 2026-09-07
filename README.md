@@ -2,8 +2,6 @@
 
 # 🧪 UnnecessaryProjects
 
-### _Because I Can._
-
 **Una colección de proyectos innecesarios, cuestionables y ocasionalmente malditos.**
 
 Nadie los pidió.  
@@ -124,7 +122,7 @@ Los proyectos pueden involucrar cosas como:
 
 ## 🎥 La serie
 
-Muchos de estos proyectos también forman parte de una serie de pequeños experimentos de programación para redes sociales.
+Muchos de estos proyectos también forman parte de una serie de pequeños experimentos de programación.
 
 La intención no es necesariamente construir algo útil.
 
