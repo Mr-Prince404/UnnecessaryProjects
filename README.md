@@ -96,7 +96,7 @@ No hay muchas.
 
 probablemente la respuesta sea:
 
-> ### Because I Can.
+> ### Porque podemos.
 
 ---
 
@@ -138,6 +138,6 @@ Cada proyecto será una nueva excusa para experimentar, aprender y probablemente
 
 ### Construido con curiosidad, decisiones cuestionables y demasiada libertad creativa.
 
-## Because I Can.
+## Porque podemos
 
 </div>
