@@ -17,6 +17,6 @@
   <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
     <text x="550" y="84" fill="#C9A99A" font-size="18">&gt; shutdown laboratory --force</text>
     <text x="550" y="120" fill="#F1E0C0" font-size="22" font-weight="700">ABORTADO: TODAVÍA HAY EXPERIMENTOS HIRVIENDO.</text>
-    <text x="550" y="156" fill="#D8D8D8" font-size="18">Demasiadas malas ideas siguen activas.</text>
+    <text x="550" y="156" fill="#F6F6F6" font-size="17">Construido con curiosidad, decisiones cuestionables y demasiada libertad creativa.</text>
   </g>
 </svg>

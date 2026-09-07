@@ -6,7 +6,7 @@
   <img alt="UnnecessaryProjects — LAB-404" src="./assets/hero-dark.svg" width="100%">
 </picture>
 
-<br>
+<br><br>
 
 <img alt="Laboratorio" src="https://img.shields.io/badge/LAB-404-6B4A3B?style=for-the-badge">
 <img alt="Estado" src="https://img.shields.io/badge/ESTADO-CUESTIONABLE-183F47?style=for-the-badge">
@@ -161,7 +161,5 @@ Cada proyecto es una nueva excusa para experimentar, aprender y construir algo q
 <div align="center">
 
 <img src="./assets/footer.svg" alt="LAB-404 — cierre del laboratorio" width="100%">
-
-**Construido con curiosidad, decisiones cuestionables y demasiada libertad creativa.**
 
 </div>
